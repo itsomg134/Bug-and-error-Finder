@@ -19,13 +19,7 @@
 -  **Zero Dependencies** – Pure HTML/CSS/JS, runs entirely client-side
 
 ---
-
-##  Live Demo
-
-Try it instantly: **[Bug & Error Finder Live](https://your-username.github.io/bug-error-finder)**  
-*(Replace with your actual GitHub Pages URL after deployment)*
-
----
+<img width="1883" height="1020" alt="image" src="https://github.com/user-attachments/assets/baefc572-3208-497d-beb2-927df2354edc" />
 
 ##  How It Works
 
