@@ -175,12 +175,16 @@ MIT License – free for personal and commercial use.
 - Icons and styling with modern CSS trends
 
 ---
-
 ##  Contact
 
-Open an issue on GitHub for bugs, suggestions, or feature requests.
+Om Gedam
 
----
+GitHub: [https://github.com/itsomg134](https://github.com/itsomg134)
 
-**Happy bug hunting!** 🐞🔍
-```
+Email: [omgedam123098@gmail.com](mailto:omgedam123098@gmail.com)
+
+Twitter (X): [https://twitter.com/omgedam](https://twitter.com/omgedam)
+
+LinkedIn: [https://linkedin.com/in/omgedam](https://linkedin.com/in/omgedam)
+
+Portfolio: [https://ogworks.lovable.app](https://ogworks.lovable.app)
